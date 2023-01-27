@@ -14,7 +14,7 @@ namespace Phones
             string info = Console.ReadLine();
             while (info != "END")
             {
-
+                Console.WriteLine("Hello");
             }
         }
     }
